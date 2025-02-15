@@ -1,4 +1,4 @@
-import { Inter } from 'next/font/google';
+import { Inter } from 'next/font/google';//here we use latin font
 
 const inter = Inter({ subsets: ['latin'], weight: ['100'] });
 export default function Header2() {
